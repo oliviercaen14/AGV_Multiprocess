@@ -1,0 +1,145 @@
+2022-04-19 10:32:04,722 - INFO     - fichier_excel.py              :103   - lecture_ficier         - Traitement Onglet : Tag_Commun ------- in PID 22408
+2022-04-19 10:32:04,731 - INFO     - fichier_excel.py              :103   - lecture_ficier         - Traitement Onglet : Tag_Essieu ------- in PID 22408
+2022-04-19 10:32:04,732 - INFO     - fichier_excel.py              :103   - lecture_ficier         - Traitement Onglet : Tag_Pont ------- in PID 22408
+2022-04-19 10:32:04,739 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 0  Tag = 1001 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,739 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 1  Tag = 1002 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,739 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 2  Tag = 1003 Bumper = False capteur=  Zone Fin = 1005 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 3  Tag = 30 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 4  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 5  Tag = 1004 Bumper = False capteur= Prise_Luge Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 6  Tag = 1005 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 7  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,740 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 8  Tag = 1006 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,741 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 9  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,741 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 10  Tag = 1007 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,741 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 11  Tag = 1008 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,741 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 12  Tag = 1009 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,741 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Commun Ligne = 13  Tag = 1010 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 0  Tag = 701 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 1  Tag = 1011 Bumper = False capteur=  Zone Fin = 1053 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 2  Tag = 1012 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 3  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 4  Tag = 1013 Bumper = True capteur= V1 Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 5  Tag = 1051 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 6  Tag = 1053 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,742 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 7  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 8  Tag = 1015 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 9  Tag = 1016 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 10  Tag = 1047 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 11  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 12  Tag = 1017 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 13  Tag = 1018 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,743 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 14  Tag = 1048 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 15  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 16  Tag = 1019 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 17  Tag = 1020 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 18  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 19  Tag = 1022 Bumper = False capteur= Pose_Essieu Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,744 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 20  Tag = 601 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,745 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 21  Tag = 30 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,745 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 22  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,745 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 23  Tag = 1023 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,745 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 24  Tag = 1024 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,745 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Essieu Ligne = 25  Tag = 1025 Bumper = False capteur=  Zone Fin = 1002 priorite = 1039  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 0  Tag = 700 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 1  Tag = 1026 Bumper = False capteur=  Zone Fin = 1029 priorite = 0  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 2  Tag = 1027 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 3  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 4  Tag = 1028 Bumper = True capteur= R1 Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,746 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 5  Tag = 1052 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,747 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 6  Tag = 1029 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,747 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 7  Tag = 1054 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,747 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 8  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,747 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 9  Tag = 1030 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,747 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 10  Tag = 1031 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 11  Tag = 1049 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 12  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 13  Tag = 1032 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 14  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 15  Tag = 1033 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 16  Tag = 1034 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,748 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 17  Tag = 1061 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 18  Tag = 1062 Bumper = True capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 19  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 20  Tag = 1037 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 21  Tag = 1038 Bumper = False capteur= Pose_Pont Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 22  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,749 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 23  Tag = 601 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,750 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 24  Tag = 30 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,750 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 25  Tag = 500 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,750 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 26  Tag = 1039 Bumper = False capteur=  Zone Fin = 1002 priorite = 1025  in PID 22408
+2022-04-19 10:32:04,750 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 27  Tag = 1040 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,750 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 28  Tag = 600 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,752 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 29  Tag = 1041 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,752 - INFO     - fichier_excel.py              :138   - gest_fichier_excel     -  Onglet = Tag_Pont Ligne = 30  Tag = 601 Bumper = False capteur=  Zone Fin = 0 priorite = 0  in PID 22408
+2022-04-19 10:32:04,752 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1001  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1002  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1003  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  30  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1004  in PID 22408
+2022-04-19 10:32:04,753 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1005  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1006  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1007  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1008  in PID 22408
+2022-04-19 10:32:04,754 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1009  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1010  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  701  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1011  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1012  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,755 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1013  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1051  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1053  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1015  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1016  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1047  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,756 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1017  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1018  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1048  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1019  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1020  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,757 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1022  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  601  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  30  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1023  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1024  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1025  in PID 22408
+2022-04-19 10:32:04,758 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  700  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1026  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1027  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1028  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1052  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1029  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1054  in PID 22408
+2022-04-19 10:32:04,759 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1030  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1031  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1049  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1032  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1033  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1034  in PID 22408
+2022-04-19 10:32:04,760 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1061  in PID 22408
+2022-04-19 10:32:04,761 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1062  in PID 22408
+2022-04-19 10:32:04,761 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,761 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1037  in PID 22408
+2022-04-19 10:32:04,761 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1038  in PID 22408
+2022-04-19 10:32:04,761 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  601  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  30  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  500  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1039  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1040  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  600  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  1041  in PID 22408
+2022-04-19 10:32:04,762 - INFO     - fichier_excel.py              :141   - gest_fichier_excel     - Numéro de tag =  601  in PID 22408

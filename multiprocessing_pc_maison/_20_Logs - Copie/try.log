@@ -1,0 +1,113 @@
+2022-04-12 19:18:03,290 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 1100
+2022-04-12 19:18:03,291 - INFO     - test_logging.py     :36    - main                   - main
+2022-04-12 19:18:03,872 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 1708
+2022-04-12 19:18:04,045 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 18092
+2022-04-12 19:18:04,083 - INFO     - test_logging.py     :13    - f                      - f(0) count 1 in PID 1708
+2022-04-12 19:18:04,085 - INFO     - test_logging.py     :13    - f                      - f(1) count 1 in PID 18092
+2022-04-12 19:18:04,085 - INFO     - test_logging.py     :13    - f                      - f(2) count 2 in PID 18092
+2022-04-12 19:18:04,108 - INFO     - test_logging.py     :13    - f                      - f(3) count 2 in PID 1708
+
+2022-04-12 19:18:04,158 - INFO     - test_logging.py     :13    - f                      - f(5) count 4 in PID 18092
+2022-04-12 19:18:04,159 - INFO     - test_logging.py     :13    - f                      - f(7) count 5 in PID 18092
+2022-04-12 19:18:04,161 - INFO     - test_logging.py     :13    - f                      - f(8) count 6 in PID 18092
+2022-04-12 19:18:04,159 - INFO     - test_logging.py     :13    - f                      - f(6) count 3 in PID 1708
+2022-04-12 19:18:04,162 - INFO     - test_logging.py     :13    - f                      - f(9) count 7 in PID 18092
+2022-04-12 19:18:04,163 - INFO     - test_logging.py     :13    - f                      - f(11) count 8 in PID 18092
+2022-04-12 19:18:04,163 - INFO     - test_logging.py     :13    - f                      - f(10) count 4 in PID 1708
+2022-04-12 19:18:04,163 - INFO     - test_logging.py     :13    - f                      - f(12) count 9 in PID 18092
+2022-04-12 19:18:04,163 - INFO     - test_logging.py     :13    - f                      - f(13) count 10 in PID 18092
+2022-04-12 19:18:04,164 - INFO     - test_logging.py     :13    - f                      - f(14) count 11 in PID 18092
+2022-04-12 19:18:04,164 - INFO     - test_logging.py     :13    - f                      - f(15) count 12 in PID 18092
+2022-04-12 19:18:04,164 - INFO     - test_logging.py     :13    - f                      - f(16) count 5 in PID 1708
+2022-04-12 19:18:04,164 - INFO     - test_logging.py     :13    - f                      - f(17) count 13 in PID 18092
+2022-04-12 19:18:04,165 - INFO     - test_logging.py     :13    - f                      - f(19) count 14 in PID 18092
+2022-04-12 19:18:04,165 - INFO     - test_logging.py     :13    - f                      - f(20) count 15 in PID 18092
+2022-04-12 19:18:04,165 - INFO     - test_logging.py     :13    - f                      - f(21) count 16 in PID 18092
+2022-04-12 19:18:04,165 - INFO     - test_logging.py     :13    - f                      - f(22) count 17 in PID 18092
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(23) count 18 in PID 18092
+2022-04-12 19:18:04,165 - INFO     - test_logging.py     :13    - f                      - f(18) count 6 in PID 1708
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(24) count 19 in PID 18092
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(25) count 20 in PID 18092
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(26) count 7 in PID 1708
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(27) count 21 in PID 18092
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(28) count 8 in PID 1708
+2022-04-12 19:18:04,166 - INFO     - test_logging.py     :13    - f                      - f(29) count 22 in PID 18092
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(30) count 9 in PID 1708
+
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(32) count 24 in PID 18092
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(33) count 10 in PID 1708
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(34) count 25 in PID 18092
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(35) count 11 in PID 1708
+2022-04-12 19:18:04,167 - INFO     - test_logging.py     :13    - f                      - f(36) count 26 in PID 18092
+2022-04-12 19:18:04,168 - INFO     - test_logging.py     :13    - f                      - f(37) count 27 in PID 18092
+2022-04-12 19:18:04,168 - INFO     - test_logging.py     :13    - f                      - f(38) count 12 in PID 1708
+
+2022-04-12 19:18:04,168 - INFO     - test_logging.py     :13    - f                      - f(40) count 29 in PID 18092
+2022-04-12 19:18:04,168 - INFO     - test_logging.py     :13    - f                      - f(41) count 13 in PID 1708
+2022-04-12 19:18:04,168 - INFO     - test_logging.py     :13    - f                      - f(42) count 30 in PID 18092
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(43) count 14 in PID 1708
+
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(45) count 32 in PID 18092
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(46) count 15 in PID 1708
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(47) count 33 in PID 18092
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(48) count 16 in PID 1708
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(49) count 34 in PID 18092
+2022-04-12 19:18:04,169 - INFO     - test_logging.py     :13    - f                      - f(50) count 35 in PID 18092
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(51) count 17 in PID 1708
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(52) count 36 in PID 18092
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(54) count 37 in PID 18092
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(55) count 38 in PID 18092
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(57) count 39 in PID 18092
+2022-04-12 19:18:04,170 - INFO     - test_logging.py     :13    - f                      - f(56) count 19 in PID 1708
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(58) count 40 in PID 18092
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(60) count 41 in PID 18092
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(59) count 20 in PID 1708
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(61) count 42 in PID 18092
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(62) count 21 in PID 1708
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(63) count 43 in PID 18092
+2022-04-12 19:18:04,171 - INFO     - test_logging.py     :13    - f                      - f(65) count 44 in PID 18092
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(66) count 45 in PID 18092
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(67) count 23 in PID 1708
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(68) count 46 in PID 18092
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(70) count 47 in PID 18092
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(71) count 48 in PID 18092
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(72) count 25 in PID 1708
+2022-04-12 19:18:04,172 - INFO     - test_logging.py     :13    - f                      - f(73) count 49 in PID 18092
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(75) count 50 in PID 18092
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(76) count 51 in PID 18092
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(77) count 27 in PID 1708
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(78) count 52 in PID 18092
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(79) count 28 in PID 1708
+2022-04-12 19:18:04,173 - INFO     - test_logging.py     :13    - f                      - f(80) count 53 in PID 18092
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(81) count 29 in PID 1708
+
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(83) count 55 in PID 18092
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(84) count 30 in PID 1708
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(85) count 56 in PID 18092
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(87) count 57 in PID 18092
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(86) count 31 in PID 1708
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(88) count 58 in PID 18092
+2022-04-12 19:18:04,174 - INFO     - test_logging.py     :13    - f                      - f(89) count 32 in PID 1708
+2022-04-12 19:18:04,175 - INFO     - test_logging.py     :13    - f                      - f(90) count 59 in PID 18092
+2022-04-12 19:18:04,175 - INFO     - test_logging.py     :13    - f                      - f(91) count 33 in PID 1708
+2022-04-12 19:18:04,175 - INFO     - test_logging.py     :13    - f                      - f(92) count 60 in PID 18092
+2022-04-12 19:18:04,176 - INFO     - test_logging.py     :13    - f                      - f(93) count 61 in PID 18092
+2022-04-12 19:18:04,178 - INFO     - test_logging.py     :13    - f                      - f(94) count 62 in PID 18092
+2022-04-12 19:18:04,178 - INFO     - test_logging.py     :13    - f                      - f(95) count 63 in PID 18092
+2022-04-12 19:18:04,179 - INFO     - test_logging.py     :13    - f                      - f(96) count 64 in PID 18092
+2022-04-12 19:18:04,179 - INFO     - test_logging.py     :13    - f                      - f(97) count 65 in PID 18092
+2022-04-12 19:18:04,179 - INFO     - test_logging.py     :13    - f                      - f(98) count 66 in PID 18092
+2022-04-12 19:18:04,180 - INFO     - test_logging.py     :13    - f                      - f(99) count 67 in PID 18092
+2022-04-12 19:18:04,180 - INFO     - test_logging.py     :13    - f                      - f(100) count 68 in PID 18092
+2022-04-12 19:18:04,180 - INFO     - test_logging.py     :13    - f                      - f(101) count 69 in PID 18092
+2022-04-12 19:18:04,180 - INFO     - test_logging.py     :13    - f                      - f(102) count 70 in PID 18092
+2022-04-12 19:18:04,181 - INFO     - test_logging.py     :13    - f                      - f(103) count 71 in PID 18092
+2022-04-12 19:18:04,181 - INFO     - test_logging.py     :13    - f                      - f(104) count 72 in PID 18092
+2022-04-12 19:18:04,181 - INFO     - test_logging.py     :13    - f                      - f(105) count 73 in PID 18092
+2022-04-12 19:18:04,181 - INFO     - test_logging.py     :13    - f                      - f(106) count 74 in PID 18092
+2022-04-12 19:18:04,181 - INFO     - test_logging.py     :13    - f                      - f(107) count 75 in PID 18092
+2022-04-12 19:18:04,182 - INFO     - test_logging.py     :13    - f                      - f(108) count 76 in PID 18092
+2022-04-12 19:18:04,182 - INFO     - test_logging.py     :13    - f                      - f(109) count 77 in PID 18092
+2022-04-12 19:18:04,572 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 23812
+2022-04-12 19:18:04,653 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 9132
+2022-04-12 19:18:05,017 - INFO     - test_logging.py     :32    - setup_logger           - Setup logger in PID 7800
